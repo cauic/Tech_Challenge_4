@@ -27,7 +27,7 @@ components.html(
 
 # Add a small disclaimer text below the dashboard
 st.markdown(
-    '<p style="text-align: center; color: gray; font-size: 12px;">Alguns gráficos podem estar indisponíveis nesta versão web. Para visualizar o dashboard completo, acesse o link da versão desktop no arquivo "LEIA-ME".</p>',
+    '<p style="text-align: center; color: gray; font-size: 12px;">Alguns gráficos podem estar indisponíveis nesta versão web. Para visualizar o dashboard completo, baixe o arquivo desktop, presente no github na aba "Término".</p>',
     unsafe_allow_html=True
 )
 st.markdown("")
