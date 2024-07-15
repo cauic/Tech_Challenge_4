@@ -1,6 +1,5 @@
 
 holidays==0.52
-lunardate==0.2.2
 matplotlib==3.9.1
 numpy==1.23.1
 pandas==2.2.2
