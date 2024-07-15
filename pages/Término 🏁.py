@@ -64,7 +64,7 @@ def render_referencias():
     link1 = "https://www.linkedin.com/in/emerson-cauic-8a7a37113/"
     link2 = "https://www.linkedin.com/in/laio-soares/"
     link3 = "https://github.com/cauic/"
-    link4 = "https://github.com/soareslaio"
+    link4 = "https://github.com/soareslaio/Tech-Challenge-4-IPEA"
 
     # Defina a largura desejada em pixels
     width = 50
